@@ -1,6 +1,7 @@
 # Modified Transparency-by-Design networks (A more efficient implementation of TbD-nets; refer the project report for more details)
 
-A Visual Question Answering implementation as a project for the course of Artificial Intelligence and Machine Learning - CS 337 @ IIT Bombay
+A Visual Question Answering implementation as a project for the course of Artificial Intelligence and Machine Learning - CS 337 @ IIT Bombay.
+
 This repository contains code for replicating the experiments and visualizations from the paper
 
 [Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual
